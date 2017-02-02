@@ -3,5 +3,5 @@ Sample
 
 sample
 
-Implemented #45
+Implemented
 
